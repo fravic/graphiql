@@ -51,7 +51,7 @@
   },
   "dependencies": {
     "codemirror": "^5.26.0",
-    "codemirror-graphql": "^0.6.11",
+    "codemirror-graphql": "git+ssh://git@github.com/graphql/codemirror-graphql.git#be6c408",
     "marked": "0.3.6"
   },
   "peerDependencies": {
